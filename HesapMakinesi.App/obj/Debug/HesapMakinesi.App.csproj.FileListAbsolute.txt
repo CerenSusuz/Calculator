@@ -1,0 +1,9 @@
+C:\Users\CEREN\Desktop\HesapMakinesi.App\bin\Debug\HesapMakinesi.App.exe.config
+C:\Users\CEREN\Desktop\HesapMakinesi.App\bin\Debug\HesapMakinesi.App.exe
+C:\Users\CEREN\Desktop\HesapMakinesi.App\bin\Debug\HesapMakinesi.App.pdb
+C:\Users\CEREN\Desktop\HesapMakinesi.App\obj\Debug\HesapMakinesi.App.csprojAssemblyReference.cache
+C:\Users\CEREN\Desktop\HesapMakinesi.App\obj\Debug\HesapMakinesi.App.Form1.resources
+C:\Users\CEREN\Desktop\HesapMakinesi.App\obj\Debug\HesapMakinesi.App.Properties.Resources.resources
+C:\Users\CEREN\Desktop\HesapMakinesi.App\obj\Debug\HesapMakinesi.App.csproj.GenerateResource.cache
+C:\Users\CEREN\Desktop\HesapMakinesi.App\obj\Debug\HesapMakinesi.App.exe
+C:\Users\CEREN\Desktop\HesapMakinesi.App\obj\Debug\HesapMakinesi.App.pdb
